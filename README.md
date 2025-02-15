@@ -25,8 +25,6 @@ This is a full-stack e-commerce platform consisting of a **NestJS backend (ecomm
 Clone this repository:
 
 ```sh
-git clone https://github.com/your-username/ecommerce-platform.git
-cd ecommerce-platform
-
-To build and start all services, run:
+git clone https://github.com/cajakey/exam.git
+cd exam
 docker-compose up --build
